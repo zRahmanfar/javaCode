@@ -8,7 +8,7 @@ public class Main {
 	// write your code here
         String text;
         Scanner scanner =new Scanner(System.in);
-        System.out.println("pls enter your text :");
+        System.out.println("pelese enter your text :");
         text =scanner.next();
         convert(text);
 
